@@ -7,6 +7,7 @@ public class Main {
         int faltas ;
         boolean comportamento;
         String opcao="Bosch";
+        String daAula = "Fazendo alterações no GITHUB"
 
         while (!opcao.equalsIgnoreCase("sair")) {
             try {
