@@ -9,6 +9,7 @@ public class Main {
         String opcao="Bosch";
         String daAula = "Fazendo alterações no GITHUB"
                 String roboDaBlaze = "Robo da blaze atualizado"
+                        String sorteio = "Você ganhou um sortei de R$ 4000,00. Clique aqui para receber."
 
         while (!opcao.equalsIgnoreCase("sair")) {
             try {
